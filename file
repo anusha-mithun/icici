@@ -1,0 +1,10 @@
+echo " $enter the file name "
+read filename
+if [ -r $filename ]
+then
+echo " $the filename have read permissions "
+else
+echo " $the filename not have read permissions"
+fi
+
+

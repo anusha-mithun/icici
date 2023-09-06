@@ -1,0 +1,16 @@
+Thu Aug 31 05:58:46 PM UTC 2023
+build1log
+build.log
+command
+directory
+file1
+file2
+file3
+install
+lsopt.txt
+practice
+read1.sh
+read2.sh
+read.sh
+script.sh
+shell

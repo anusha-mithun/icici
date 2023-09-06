@@ -1,0 +1,13 @@
+a=anu
+b=satish
+c=tinku
+
+if [[ ($a -gt $b) && ($a -gt $c) ]]
+then
+echo "$a is good than $b and $c"
+elif [[ ($b -gt $a) && ($b -gt $c) ]]
+then
+echo "$b is good than $a and $c"
+else
+echo "$c is good than $a and $b"
+fi

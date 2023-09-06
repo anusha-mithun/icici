@@ -1,0 +1,6 @@
+echo "forloop demo starts"
+for (( i=100;i>=1;i-- ))
+do
+echo $i
+done
+echo "forloop demo over"

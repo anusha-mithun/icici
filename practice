@@ -1,0 +1,8 @@
+pwd
+mkdir directory
+cd directory
+touch dir1 dir2
+rm dir1
+touch dir3
+ls -l
+
