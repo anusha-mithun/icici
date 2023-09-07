@@ -681,3 +681,37 @@ ls
 cd ..
 git init
 logout
+cd
+ls
+pwd
+ls
+clear
+git clone 
+git clone https://github.com/anusha-mithun/icici.git
+git init
+ls
+clear
+git init
+ls
+touch mithun1
+touch mithun2
+git status
+git config --global --list
+git add .
+git commit -m "first commit"
+git push
+git remote add icici https://github.com/anusha-mithun/icici.git
+git push
+git push --set-upstream icici master
+ls
+git pull
+vi command
+git status
+git add command
+git commit -m "command file has changed"
+git push
+git pull
+git status
+logout
+ls
+exit
